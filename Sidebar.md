@@ -1,6 +1,6 @@
 # Site Navigation
 
-<html><a href="/">Home</a></html>
+[[README|Home]]  
 [[Sovereigns]]  
 [[Commitments]]  
 [[The Network]]  
