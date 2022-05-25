@@ -13,7 +13,8 @@ We propose the following (draft, 2022-05-25):
 - [[The Network]] is composed of coordinating Sovereigns.
 - [[Sovereigns]] are autonomous individual humans, or groups of humans, who together comprise The Network.
 - Sovereigns publish statements of [[Purpose]] and [[Principles]]. They write their own statements or declare agreement with those of another Sovereign.
-- Sovereigns communicate about their mission and projects, and the statuses thereof, in simple formats defined by The Network.
-- To be part of The Network, sovereigns are willing to be listed in The Network's directories.
-- Sovereigns make [[Commitments]] with other Sovereigns and strive to keep them.
-- Sovereigns request guidance from other Sovereigns when they want to coordinate or overcome blocks to progress.
+- Sovereigns [[Federate]]:
+	- Sovereigns communicate about their mission and projects, and the statuses thereof, in simple formats defined by The Network.
+	- Sovereigns make [[Commitments]] with other Sovereigns and strive to keep them.
+	- Sovereigns request guidance from other Sovereigns when they want to coordinate or overcome blocks to progress.
+	- To be part of The Network, sovereigns are willing to be listed in The Network's directories.
