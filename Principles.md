@@ -1,3 +1,3 @@
 # Principles
 
-_under construction_
+Moral and ethical values of [[Actors]].

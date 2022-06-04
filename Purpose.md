@@ -1,3 +1,3 @@
 # Purpose
 
-_under construction_
+The overarching goals and reason for [[Actors]] to exist.

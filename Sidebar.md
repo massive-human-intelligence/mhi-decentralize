@@ -4,9 +4,9 @@ This site is a
 # Site Navigation
 
 [[README|Home]]  
-[[Sovereigns]]  
+[[Actors]]  
 [[Commitments]]  
-[[The Network]]  
+[[Network]]  
 
 # Comments Enabled
 
