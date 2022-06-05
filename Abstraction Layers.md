@@ -12,7 +12,7 @@ Massive Decentralization allows some of the Actors to Federate.  Massive Coordin
 
 "Other Kinds of Coordination and Decentralization" represents other potential ways Actors might be gathered together, Federating either individually or en masse with the Actors that are using Massive Decentralization.
 
-Additional higher layers (represented here with the simple name, "usability layers") will help the network handle more complicated political-style and economic-style interactions both within the network and with external forces.
+Additional higher layers (represented here with the simple name, "usability layers") will help the network handle more complicated political-style and economic-style interactions both within the network and with external forces. They will also provide help to people and groups who are trying to fit in and work within the network, with training, guidance, and support.
 
 The Lionsberg actor provides centralized stewardship and helps the network manage the process of emergent coordination and informed followership / citizenship in both The Meta Project and the larger world.
 
