@@ -1,8 +1,10 @@
 # Abstraction Layers
 
-Hierarchical layers of abstraction are used to differentiate and simplify activities required to operate both biological and engineered systems. Some examples include the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature), the human [visual system](https://en.wikipedia.org/wiki/Visual_system), or animal [motor control](https://en.wikipedia.org/wiki/Motor_control) systems to walk, or swim, or to play baseball.
+Hierarchical **layers of abstraction** are used to differentiate and simplify activities required to operate biological, engineered, and social systems, that are large, deep, and complicated.
 
-We situate Massive Decentralization near the bottom of a number of [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer).  Consider the following example.
+Some examples include the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature) (Wikipedia), the human [visual system](https://en.wikipedia.org/wiki/Visual_system) (Wikipedia), or animal [motor control](https://en.wikipedia.org/wiki/Motor_control) (Wikipedia) systems to walk, or swim, to play baseball.  Or for another kind of example, the psycho-social-political layers needed to run a company, or town, or country.
+
+We situate Massive Decentralization near the bottom of a number of [abstraction layers](https://en.wikipedia.org/wiki/Abstraction_layer) (Wikipedia).  Consider the following example.
 
 ![[abstraction layers of decentralization 2022-06-04-001-2x.drawio.png]]
 
